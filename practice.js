@@ -3,3 +3,6 @@ function add(a,b){
 return a+b
 }
 let c=add(6,7)
+
+console.log("hello!!!")
+
