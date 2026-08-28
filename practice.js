@@ -1,2 +1,5 @@
 console.log("hello")
-console.log("1st commit")
+function add(a,b){
+return a+b
+}
+let c=add(6,7)
